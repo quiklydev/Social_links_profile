@@ -45,7 +45,6 @@ Open the `index.html` file in a browser to view the social links profile.
 ## Project Structure
 
 - **`index.html`**: The main HTML file containing the structure of the social links profile.
-- **`frontendmentor.svg`**: SVG file used for the Frontend Mentor icon.
 - **`profile.css`**: The stylesheet for styling the profile, including animations and responsive design.
 - **`index.js`**: JavaScript file.
 - **`license`**: License file (ISC).
@@ -58,7 +57,7 @@ This project is licensed under the ISC License.
 
 ## Feedback
 
-Issues: https://github.com/quiklydev/Social-Links-Profile/issues
+Issues: https://github.com/quiklydev/Social_Links_Profile/issues
 
 ## Contributing
 
