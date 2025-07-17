@@ -1,0 +1,16 @@
+{
+    "name": "social-links-profile",
+    "version": "1.0.0",
+    "description": "A personal profile page to showcase social media links with a modern and interactive design.",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --open=index.html"
+    },
+    "author": "quiklydev",
+    "license": "ISC",
+    "keywords": ["profile", "social links", "frontend"],
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+}
