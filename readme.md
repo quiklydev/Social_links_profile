@@ -1,11 +1,13 @@
 # Social links profile
 
-This project creates a profile page displaying social media links for quiklydev, a Frontend Developer. It features a responsive design with animated hover effects and utilizes FontAwesome for icons.
-You can view the live demo [here](https://quiklydev.github.io/Social_links_profile).
-
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://quiklydev.github.io/Social_links_profile/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/quiklydev/Social_links_profile)](https://github.com/quiklydev/Social_links_profile/issues)
+
+## About
+
+Social Links Profile is the central hub for **Quikly Dev**—a modern frontend brand.  
+Use this page to quickly connect via email, browse code on GitHub, follow updates on X/Twitter, read posts on Dev.to, and explore live demos on CodePen.
 
 ## Features
 
